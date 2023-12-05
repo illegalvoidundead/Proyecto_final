@@ -8,6 +8,8 @@ __pycache__/
 
 # Large files
 clima.csv
+datos.csv
+reg_clima.csv
 
 # Distribution / packaging
 .Python
