@@ -8,7 +8,7 @@ Mediante Python y utilizando la API de AEMET y su librería cliente, he obtenido
 <details>
 <summary>Función para obtener datos climatológicos a través de la librería cliente de la AEMET</summary>
 
-![Captura de pantalla 2023-12-07 a las 17 05 10](https://github.com/illegalvoidundead/Proyecto_final/assets/143459249/35d282c2-78db-41d2-91bb-cfbbd8b391ca)
+[![Captura de pantalla 2023-12-07 a las 17 05 10](https://github.com/illegalvoidundead/Proyecto_final/assets/143459249/35d282c2-78db-41d2-91bb-cfbbd8b391ca)](https://github.com/illegalvoidundead/Proyecto_final/blob/main/code/python-aemet.ipynb)
 
 
 </details>
