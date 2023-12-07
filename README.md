@@ -7,6 +7,8 @@ Este proyecto tiene como objetivo analizar la evolución de las temperaturas y p
 
 Mediante Python y utilizando la API de AEMET y su librería cliente, he obtenido datos climáticos de estaciones específicas y realizado un análisis exploratorio para entender mejor las tendencias a lo largo del tiempo.
 
+![tongueleft](https://github.com/illegalvoidundead/Proyecto_final/assets/143459249/6a7614f7-fdf5-4f07-a19c-dec384c11a55)
+
 <details>
 <summary>Función para obtener datos climatológicos a través de la librería cliente de la AEMET</summary>
 
