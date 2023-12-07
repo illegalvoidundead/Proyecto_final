@@ -34,6 +34,20 @@ Visualizaciones: gráficos de la evolución de temperaturas y precipitaciones en
 
 </details>
 
+## Esctructura de carpetas
+
+
+* code: contiene hojas de jupyter notebook
+* dashboard: contiene la visualización de Tableau
+* datasets: contiene los archivos CSV generados 
+* img: contiene las imagenes utilzadas tanto en la visualización como en el README
+* src: contiene código fuente
+* raíz:
+
+  .gitignore: especifica que archivos y carpetas se ignorarán en git
+  
+  README.MD: markdown que contiene la descripción del repositorio
+
 
 ## Contribuciones y Mejoras Futuras
 Posibilidad de ampliar el análisis a más ciudades o periodos temporales.
