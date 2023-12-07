@@ -3207,8 +3207,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='700' minheight='700' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='51' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='97334' id='50' param='vert' type-v2='layout-flow' w='98000' x='1000' y='1333'>
+            <zone h='100000' id='53' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='97334' id='52' param='vert' type-v2='layout-flow' w='98000' x='1000' y='1333'>
                 <zone fixed-size='280' h='97334' id='15' is-fixed='true' is-scaled='1' param='/Users/davidledo/Desktop/Proyectos/Proyecto_final/img/meme_simpsons.jpeg' type-v2='bitmap' w='94000' x='1000' y='1333'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
@@ -3263,8 +3263,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='700' minheight='700' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='33' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='97334' id='32' param='vert' type-v2='layout-flow' w='98000' x='1000' y='1333'>
+            <zone h='100000' id='35' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='97334' id='34' param='vert' type-v2='layout-flow' w='98000' x='1000' y='1333'>
                 <zone forceUpdate='true' h='38333' id='1' type-v2='text' w='98625' x='500' y='-667'>
                   <formatted-text>
                     <run bold='true' fontalignment='1' fontcolor='#000000' fontname='Tableau Bold' fontsize='20'>El uso más eficiente de recursos puede conducir a un aumento en el consumo total de esos recursos.</run>
@@ -3329,8 +3329,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='700' minheight='700' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='35' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='98000' id='34' param='vert' type-v2='layout-flow' w='98400' x='800' y='1000'>
+            <zone h='100000' id='37' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='98000' id='36' param='vert' type-v2='layout-flow' w='98400' x='800' y='1000'>
                 <zone fixed-size='280' h='98000' id='5' is-fixed='true' is-scaled='1' param='/Users/davidledo/Desktop/Proyectos/Proyecto_final/img/imagen_sequia2.jpeg' type-v2='bitmap' w='98400' x='800' y='1000'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
@@ -3390,8 +3390,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='700' minheight='700' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='32' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='98000' id='31' param='vert' type-v2='layout-flow' w='98400' x='800' y='1000'>
+            <zone h='100000' id='34' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='98000' id='33' param='vert' type-v2='layout-flow' w='98400' x='800' y='1000'>
                 <zone fixed-size='280' h='98000' id='3' is-fixed='true' is-scaled='1' param='/Users/davidledo/Desktop/Proyectos/Proyecto_final/img/meme_spiderman.jpg' type-v2='bitmap' w='98400' x='800' y='1000'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
@@ -3455,8 +3455,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='700' minheight='700' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='65' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='97334' id='64' param='vert' type-v2='layout-flow' w='98000' x='1000' y='1333'>
+            <zone h='100000' id='67' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='97334' id='66' param='vert' type-v2='layout-flow' w='98000' x='1000' y='1333'>
                 <zone fixed-size='187' h='32444' id='7' is-fixed='true' name='Hoja 6' w='98000' x='1000' y='1333'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
@@ -3537,8 +3537,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='700' minheight='700' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='63' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='97334' id='62' param='vert' type-v2='layout-flow' w='98000' x='1000' y='1333'>
+            <zone h='100000' id='65' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='97334' id='64' param='vert' type-v2='layout-flow' w='98000' x='1000' y='1333'>
                 <zone fixed-size='280' h='65179' id='3' is-fixed='true' name='Hoja 8' w='98000' x='1000' y='1333'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
@@ -3593,8 +3593,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='700' minheight='700' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='69' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='97334' id='68' param='vert' type-v2='layout-flow' w='98000' x='1000' y='1333'>
+            <zone h='100000' id='71' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='97334' id='70' param='vert' type-v2='layout-flow' w='98000' x='1000' y='1333'>
                 <zone fixed-size='280' h='53750' id='6' is-fixed='true' is-scaled='1' param='/Users/davidledo/Desktop/Proyectos/Proyecto_final/img/imagen_sequia.png' type-v2='bitmap' w='96700' x='2200' y='1125'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
@@ -3668,8 +3668,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='700' minheight='700' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='71' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='97334' id='70' param='vert' type-v2='layout-flow' w='98000' x='1000' y='1333'>
+            <zone h='100000' id='73' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='97334' id='72' param='vert' type-v2='layout-flow' w='98000' x='1000' y='1333'>
                 <zone fixed-size='280' h='65334' id='3' is-fixed='true' name='Hoja 9' w='94000' x='1000' y='1333'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
@@ -3753,8 +3753,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='700' minheight='700' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='62' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='97334' id='61' param='vert' type-v2='layout-flow' w='98000' x='1000' y='1333'>
+            <zone h='100000' id='64' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='97334' id='63' param='vert' type-v2='layout-flow' w='98000' x='1000' y='1333'>
                 <zone fixed-size='280' h='97334' id='3' is-fixed='true' name='Hoja 11' w='98000' x='1000' y='1333'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
@@ -3813,8 +3813,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='700' minheight='700' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='70' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='97334' id='69' param='vert' type-v2='layout-flow' w='98000' x='1000' y='1333'>
+            <zone h='100000' id='72' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='97334' id='71' param='vert' type-v2='layout-flow' w='98000' x='1000' y='1333'>
                 <zone fixed-size='280' h='92000' id='5' is-fixed='true' is-scaled='1' param='/Users/davidledo/Desktop/Proyectos/Proyecto_final/img/noticia_axarquia.png' type-v2='bitmap' w='98000' x='1000' y='1333'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
