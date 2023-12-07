@@ -1,5 +1,7 @@
 # Proyecto final
 
+![girl_testing_weather_md_clr](https://github.com/illegalvoidundead/Proyecto_final/assets/143459249/31ca36bd-3d66-4115-a53b-e9b5bdcbcb65)
+
 ## Descripción
 Este proyecto tiene como objetivo analizar la evolución de las temperaturas y precipitaciones en diferentes regiones de España utilizando datos proporcionados por AEMET (Agencia Estatal de Meteorología), así como el uso de recursos hídrigcos destinado a la agricultura. 
 
